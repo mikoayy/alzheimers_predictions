@@ -1,4 +1,4 @@
 ## General info
-Analiza danych medycznych.
-Baza danych z kaggle +
-przewidywania dotyczące choroby
+Medical data analysis.
+Dataset from Kaggle +
+disease prediction.
